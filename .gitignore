@@ -33,3 +33,8 @@ Thumbs.db
 # config.yaml (keep example, exclude real config if sensitive)
 config/config.yaml
 !config/config.yaml.example
+
+# Build logs
+*.log
+build_*.log
+build_*.txt
